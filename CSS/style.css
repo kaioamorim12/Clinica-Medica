@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 * {
     margin: 0;
     box-sizing: border-box;
@@ -204,7 +208,7 @@ footer span {
 }
 
 @media (max-width: 1024px) {
-  
+
 
     .images-section-especialidade {
         margin: 0 auto;
